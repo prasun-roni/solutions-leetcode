@@ -39,7 +39,7 @@ class GFG
     {
         // Your Code Here
         if(nums1.length > nums2.length)
-            return medianOfArrays(n2, n1, nums2, nums1);
+            return medianOfArrays(n2, n1, nums2, nums1);//.  okay
 
         int low = 0, high = n1;
 
